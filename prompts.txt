@@ -1,0 +1,9 @@
+I  replace the research gate with this:
+Use this microsoft professional architecture and functionalities to design an interface for admin to collect, group, and edit them with a flexible functionalities to break and use those posted pictures, videos and audios as medias to modified their content in a respective categories like artifacts, histories, marriage, and many more as they deem fit. 
+this is an environment to format, edit, arrange, bookmap, hyperlink and do almost all the functionalities of microsoft word to enable admin prepare this content for research gate. 
+this interface is friendly and adoptness. Two sides bar should be by default to pull in this posted into their respective categories and format them into reference when click it pull out all the content belonging into their respective categories, the otherside of the sidebar like a mini panel but readable, then the main work place to click and drag into it the content then the document collect it automatically formatting them as where saved by title, abstract, body_content, and medias. so after the admin will begings editing by adding, referencing image, media, and audio source either by the contributor or online source any where identify as the source of the image (this identification can be automated by an AI to read and pull the various source of those medias one a post is drag in). 
+This is a complete multi-document format editor for content to be prepare as sent to research gate. 
+is here that will have the bibilography for citation, and reference by who post wast used and the system should keep track to later generate an APA reference format or in-text citation automatically and also have a place for admin to prepare a citation. 
+overall should be responsive and professional as the microsolft word.
+
+Regular user only read, play the medias and only download. 
