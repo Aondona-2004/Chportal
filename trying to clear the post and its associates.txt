@@ -1,7 +1,0 @@
-what show when trying to clear the post and it associates 
-
--- 3. Clear out the main posts table and reset the Auto-Increment IDs to 1
-TRUNCATE TABLE `posts`;
-MySQL said: Documentation
-
-#1701 - Cannot truncate a table referenced in a foreign key constraint (`heritage_db`.`chats`, CONSTRAINT `chats_ibfk_3` FOREIGN KEY (`post_id`) REFERENCES `heritage_db`.`posts` (`id`))
